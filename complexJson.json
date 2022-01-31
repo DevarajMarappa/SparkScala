@@ -1,0 +1,12 @@
+{
+  "student_name": "Ram kumar",
+  "DOB": "10–02–1995",
+  "address": {
+    "city": "kolkata",
+    "pin_code": 811320
+  },
+  "contact_number": {
+    "primary": 963343944,
+    "secondary": 883673363
+  }
+}
